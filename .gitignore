@@ -1,0 +1,9 @@
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/ai1wm-backups/
+.private/
+*.sql
+*.sqlite
+*.zip
+*.bak*
