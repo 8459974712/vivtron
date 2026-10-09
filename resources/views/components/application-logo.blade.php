@@ -1,0 +1,1 @@
+<img src="https://vivtronevcs.com/wp-content/uploads/2026/05/file_00000000d93c71fa8543361289614009-e1780049716431.png" width="180px;" >
